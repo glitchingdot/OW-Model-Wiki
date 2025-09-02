@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   srcDir: "docs",
-  
+  base: '/',
   title: "Outer Wilds Model Wiki",
   description: "A wiki of model references from the game Outer Wilds",
   themeConfig: {
