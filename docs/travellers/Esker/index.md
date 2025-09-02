@@ -8,7 +8,7 @@ import TransparentVideo from '../../../components/TransparentVideo.vue'
 </script>
 
 # Esker
-Don't worry, we didn't forget about you, Esker!
+> “Oh, hey, it’s you! Ground control didn’t tell me you were launching. Long time no see!"
 
 ## Outfit Breakdown
 ![Esker Model Reference](./media/Untitled.png)

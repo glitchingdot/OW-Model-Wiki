@@ -8,7 +8,7 @@ import TransparentVideo from '../../../components/TransparentVideo.vue'
 </script>
 
 # Feldspar
-Any beasties around here? No? Good.
+> “Whoa! Where’d you come from? No one’s come here in… well, ever, actually. That makes you the second Hearthian to ever reach Dark Bramble — after me, of course. Well done!"
 
 ## Outfit Breakdown
 ![Chert Model Reference](./media/Breakdown.webp)

@@ -8,8 +8,7 @@ import TransparentVideo from '../../../components/TransparentVideo.vue'
 </script>
 
 # Chert
-Astronomy 101: Maybe looking up isn't always the best idea
-
+> “Goodness, it’s you! Hello! I take it your first launch went well, then? Welcome to the Hourglass Twins. Mind the sand, now.”
 ## Outfit Breakdown
 ![Chert Model Reference](./media/Breakdown.webp)
 [Link to Full Size](./media/Breakdown.webp)
