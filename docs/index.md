@@ -3,12 +3,12 @@
 layout: home
 
 hero:
-  name: "Outer Wilds Model Wiki"
-  tagline: An unofficial wiki of models and designs from the game Outer Wilds! Welcome in!
+  name: "Outer Wilds<br/>Model Wiki"
+  tagline: An unofficial wiki of models and designs from the game Outer Wilds! Welcome in! <b><i>Spoilers present!</i></b>
   actions:
     - theme: brand
       text: Edit On GitHub
-      link: /markdown-examples
+      link: https://github.com/glitchingdot/OW-Model-Wiki
 
 features:
   - title: Travellers
