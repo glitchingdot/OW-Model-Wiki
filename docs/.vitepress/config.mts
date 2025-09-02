@@ -19,8 +19,9 @@ export default defineConfig({
         items: [
           { text: "Chert", link: "/travellers/Chert/" },
           { text: "Esker", link: "/travellers/Esker/" },
-          { text: "Feldspar", link: "/travellers/Feldspar/" },
           { text: "Gabbro", link: "/travellers/Gabbro/" },
+          { text: "Hatchling", link: "travellers/Hatchling" },
+          { text: "Feldspar", link: "/travellers/Feldspar/" },
           { text: "Riebeck", link: "/travellers/Riebeck/" },
           {
             text: "Spoiler Characters",
