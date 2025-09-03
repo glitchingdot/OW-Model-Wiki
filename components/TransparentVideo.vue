@@ -8,6 +8,6 @@ defineProps(['path'])
   <source :src="`/media/${path}/output.webm`" type="video/webm">
 </video>
 
-<a :href="`./media/${path}/output.webm`">Open in Full Size</a>
+<a :href="`/media/${path}/output.webm`">Open in Full Size</a>
 
 </template>
