@@ -30,10 +30,10 @@ import TransparentVideo from '../../../components/TransparentVideo.vue'
 ## Model Turnarounds
 
 ### Shirt
-<TransparentVideo path='shirt'/>
+<TransparentVideo path='esker/shirt'/>
 
 ### Pants
-<TransparentVideo path='pants'/>
+<TransparentVideo path='esker/pants'/>
 
 ### Pouch
-<TransparentVideo path='bag'/>
+<TransparentVideo path='esker/bag'/>

@@ -8,7 +8,7 @@ import TransparentVideo from '../../../components/TransparentVideo.vue'
 </script>
 
 # Chert
-> “Goodness, it’s you! Hello! I take it your first launch went well, then? Welcome to the Hourglass Twins. Mind the sand, now.”
+> “Goodness, it’s you! Hello! I take it your first launch went well, then? Welcome to the Hourglass Twins. Mind the sand, now.”chert/
 ## Outfit Breakdown
 ![Chert Model Reference](./media/Breakdown.webp)
 [Link to Full Size](./media/Breakdown.webp)
@@ -30,22 +30,22 @@ import TransparentVideo from '../../../components/TransparentVideo.vue'
 ## Model Turnarounds
 
 ### Helmet
-<TransparentVideo path='helmet'/>
+<TransparentVideo path='chert/helmet'/>
 
 ### Bandana
-<TransparentVideo path='bandana'/>
+<TransparentVideo path='chert/bandana'/>
 
 ### Jumpsuit
-<TransparentVideo path='shirt'/>
+<TransparentVideo path='chert/shirt'/>
 
 ### Back Harness
-<TransparentVideo path='back harness'/>
+<TransparentVideo path='chert/back harness'/>
 
 ### Pants
-<TransparentVideo path='pants'/>
+<TransparentVideo path='chert/pants'/>
 
 ### Pouch
-<TransparentVideo path='bag'/>
+<TransparentVideo path='chert/bag'/>
 
 ### Drum
-<TransparentVideo path='drum'/>
+<TransparentVideo path='chert/drum'/>

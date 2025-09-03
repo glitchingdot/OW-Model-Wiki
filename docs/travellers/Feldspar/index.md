@@ -73,22 +73,22 @@ import TransparentVideo from '../../../components/TransparentVideo.vue'
 ## Model Turnarounds
 
 ### Helmet
-<TransparentVideo path='helmet'/>
+<TransparentVideo path='feldspar/helmet'/>
 
 ### Scarf
-<TransparentVideo path='scarf'/>
+<TransparentVideo path='feldspar/scarf'/>
 
 ### Jumpsuit
-<TransparentVideo path='jumpsuit'/>
+<TransparentVideo path='feldspar/jumpsuit'/>
 
 ### Vest
-<TransparentVideo path='vest'/>
+<TransparentVideo path='feldspar/vest'/>
 
 ### Bottles
-<TransparentVideo path='bottles'/>
+<TransparentVideo path='feldspar/bottles'/>
 
 ### Harness
-<TransparentVideo path='harness'/>
+<TransparentVideo path='feldspar/harness'/>
 
 ### Pouch
-<TransparentVideo path='pouch'/>
+<TransparentVideo path='feldspar/pouch'/>
