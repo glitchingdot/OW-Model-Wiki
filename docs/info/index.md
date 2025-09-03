@@ -1,12 +1,5 @@
 # Info
 
-Hi there! Welcome to the 
+### Hi there! Welcome to the Outer Wilds Model Wiki!
+We're trying to provide the best (unofficial) source of references and resources for artists and fans of Outer Wilds to create what they love!
 
-
-# Can you give me models from Outer Wilds?
-No can do. Outer Wilds, similar to most all modern games, doesn't permit the explicit sharing of
-models, textures, or assets from the game outright. 
-
-# Is it possible to extract models from Outer Wilds?
-Totally! There's many guides about extracting models from Unity games, so making our own here would
-probably be reduntant. Give it a Google!

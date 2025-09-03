@@ -7,6 +7,9 @@ hero:
   tagline: An unofficial wiki of models and designs from the game Outer Wilds! Welcome in! <b><i>Spoilers present!</i></b>
   actions:
     - theme: brand
+      text: Info
+      link: /info
+    - theme: alt
       text: Edit On GitHub
       link: https://github.com/glitchingdot/OW-Model-Wiki
 
