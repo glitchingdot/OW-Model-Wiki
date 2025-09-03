@@ -8,45 +8,45 @@ hero:
 
 features:
   - title: Chert
-    details: Hi there!
+    details: Drum Playing Astronomer
     link: /travellers/Chert/
-    linkText: Say Hello!
+    linkText: To Ember Twin!
     icon: 🔭
 
   - title: Esker
-    details: Hi there!
+    details: Whistling Pioneer
     link: /travellers/Esker/
-    linkText: Say Hello!
+    linkText: To The Attlerock!
     icon: 🌙
 
   - title: Feldspar
-    details: Hi there!
+    details: Harmonica Playing Hotshot
     link: /travellers/Feldspar
-    linkText: Say Hello!
+    linkText: To Dark Bramble!
     icon: 🪾
 
   - title: Gabbro
-    details: Hi there!
+    details: Flute Playing Sleeper
     link: /travellers/Gabbro/
-    linkText: Say Hello!
+    linkText: To Giant's Deep!
     icon: 🏝️
 
   - title: Hatchling
-    details: Hi there!
+    details: It's you!
     link: /travellers/Hatchling/
-    linkText: Say Hello!
+    linkText: Press E to Wake Up!
     icon: 🚀
 
   - title: Riebeck
-    details: Hi there!
+    details: Banjo Playing Archeologist
     link: /travellers/Riebeck/
-    linkText: Say Hello!
+    linkText: To Brittle Hollow!
     icon: 🪕
 
   - title: SPOILERS
-    details: Hi there!
+    details: Contains MAIN and DLC Spoilers!
     link: /travellers/SPOILERS/
-    linkText: Say Hello!
+    linkText: I've finished the game!
     icon: 🫣
 ---
 
