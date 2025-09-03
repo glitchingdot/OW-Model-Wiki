@@ -13,6 +13,10 @@ export default defineConfig({
       { text: "Miscellaneous", link: "/misc" },
     ],
 
+    search: {
+      provider: "local"
+    },
+
     sidebar: [
       {
         text: "Travellers",
