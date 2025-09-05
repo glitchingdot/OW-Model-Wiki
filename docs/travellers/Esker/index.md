@@ -11,8 +11,8 @@ import TransparentVideo from '../../../components/TransparentVideo.vue'
 > “Oh, hey, it’s you! Ground control didn’t tell me you were launching. Long time no see!"
 
 ## Outfit Breakdown
-![Esker Model Reference](./media/Untitled.png)
-[Link to Full Size](./media/Untitled.png)
+![Esker Model Reference](/media/esker/Untitled.png)
+[Link to Full Size](/media/esker/Untitled.png)
 
 ## Prop List
 * Hat

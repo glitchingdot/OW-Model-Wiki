@@ -11,8 +11,8 @@ import TransparentVideo from '../../../components/TransparentVideo.vue'
 > It's you!
 
 ## Outfit Breakdown
-![Hatchling Model Reference](./media/Breakdown.webp)
-[Link to Full Size](./media/Breakdown.webp)
+![Hatchling Model Reference](/media/hatchling/Breakdown.webp)
+[Link to Full Size](/media/hatchling/Breakdown.webp)
 
 ## Prop List
 * [Helmet](#helmet)

@@ -10,8 +10,8 @@ import TransparentVideo from '../../../components/TransparentVideo.vue'
 # Chert
 > “Goodness, it’s you! Hello! I take it your first launch went well, then? Welcome to the Hourglass Twins. Mind the sand, now.”
 ## Outfit Breakdown
-![Chert Model Reference](./media/Breakdown.webp)
-[Link to Full Size](./media/Breakdown.webp)
+![Chert Model Reference](/media/chert/Breakdown.webp)
+[Link to Full Size](/media/chert/Breakdown.webp)
 
 ## Prop List
 * [Helmet](#helmet)

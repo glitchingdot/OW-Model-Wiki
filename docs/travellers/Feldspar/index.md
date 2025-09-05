@@ -11,8 +11,8 @@ import TransparentVideo from '../../../components/TransparentVideo.vue'
 > “Whoa! Where’d you come from? No one’s come here in… well, ever, actually. That makes you the second Hearthian to ever reach Dark Bramble — after me, of course. Well done!"
 
 ## Outfit Breakdown
-![Feldspar Model Reference](./media/Breakdown.webp)
-[Link to Full Size](./media/Breakdown.webp)
+![Feldspar Model Reference](/media/feldspar/Breakdown.webp)
+[Link to Full Size](/media/feldspar/Breakdown.webp)
 
 ## Prop List
 * [Helmet](#helmet)

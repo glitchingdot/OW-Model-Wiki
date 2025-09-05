@@ -11,8 +11,8 @@ import TransparentVideo from '../../../components/TransparentVideo.vue'
 > “Oh, you launched! That’s great. Great job, you. Wow, I guess that means I’ve been out here a while, huh. Well, um, this is Brittle Hollow. But you probably knew that. Lots of history here. ...It’s great.”
 
 ## Outfit Breakdown
-![Riebeck Model Reference](./media/Breakdown.webp)
-[Link to Full Size](./media/Breakdown.webp)
+![Riebeck Model Reference](/media/riebeck/Breakdown.webp)
+[Link to Full Size](/media/riebeck/Breakdown.webp)
 
 ## Prop List
 * [Helmet](#helmet)

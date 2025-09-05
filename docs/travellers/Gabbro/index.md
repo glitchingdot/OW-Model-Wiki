@@ -12,8 +12,8 @@ import TransparentVideo from '../../../components/TransparentVideo.vue'
 So hey, don’t laugh, but I think I might have had some kind of spiritual experience with a rock shaped like a face."
 
 ## Outfit Breakdown
-![Gabbro Model Reference](./media/Breakdown.webp)
-[Link to Full Size](./media/Breakdown.webp)
+![Gabbro Model Reference](/media/gabbro/Breakdown.webp)
+[Link to Full Size](/media/gabbro/Breakdown.webp)
 
 ## Prop List
 * [Helmet](#helmet)
