@@ -21,6 +21,7 @@ So hey, don’t laugh, but I think I might have had some kind of spiritual exper
     * [Antenna 2](#antenna-2)
     * [Antenna 3](#antenna-3)
     * Tubing
+* Scarf
 * [Jumpsuit](#jumpsuit)
     * Wiring *x3*
     * Tubing *x2*
